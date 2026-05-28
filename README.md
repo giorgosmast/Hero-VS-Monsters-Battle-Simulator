@@ -12,7 +12,7 @@ An interactive, text-based RPG battle simulator written in **C++** utilizing **O
 
 ## Technologies Used
 * **Language:** C++ (ISO C++11 or higher)
-* **IDE:** Dev-C++ / Code::Blocks
+* **IDE:** Dev-C++
 * **Libraries:** `<iostream>`, `<string>`, `<cstdlib>`, `<ctime>`, `<windows.h>`
 
 ## How to Play
