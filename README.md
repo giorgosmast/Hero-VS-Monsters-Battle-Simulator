@@ -7,7 +7,7 @@ An interactive, text-based RPG battle simulator written in **C++** utilizing **O
 * **Advanced Combat Ruleset:** Dynamic damage calculations including accuracy checks (Armor Class vs Hit Roll) and damage reduction based on custom defense stats.
 * **Special Skills System:** * *Hero Skills:* Power Strike, Double Slash, Piercing Thrust (ignores armor), and Critical Blow.
   * *Monster AI:* Smart decision-making flow (70% Simple Attack / 30% Special Skills like Heavy Smash or Poison Fang).
-* **Epic Boss Events:** An scaling boss fight (`🚨 EPIC BOSS: Dragon 🐉`) triggers every 5 kills with enhanced stats and custom weaponry.
+* **Epic Boss Events:** An scaling boss fight (`BOSS: The Fallen Dragon Knight`) triggers every 5 kills with enhanced stats and custom weaponry.
 * **Quality of Life Functions:** Complete menu input validation (prevents crashes from invalid choices), custom healing mechanic, and a seamless *Play Again* replay loop.
 
 ## 🛠️ Technologies Used
