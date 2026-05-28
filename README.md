@@ -10,7 +10,7 @@ An interactive, text-based RPG battle simulator written in **C++** utilizing **O
 * **Epic Boss Events:** An scaling boss fight (`BOSS: The Fallen Dragon Knight`) triggers every 5 kills with enhanced stats and custom weaponry.
 * **Quality of Life Functions:** Complete menu input validation (prevents crashes from invalid choices), custom healing mechanic, and a seamless *Play Again* replay loop.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * **Language:** C++ (ISO C++11 or higher)
 * **IDE:** Dev-C++ / Code::Blocks
 * **Libraries:** `<iostream>`, `<string>`, `<cstdlib>`, `<ctime>`, `<windows.h>`
